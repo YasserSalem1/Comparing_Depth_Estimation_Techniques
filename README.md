@@ -28,3 +28,12 @@ Vision Transformers have gained popularity for their success in computer vision 
 https://diode-dataset.org/
 
 ![Dataset](Dataset.png)
+
+# Results 
+
+![Result1](Results1.png)
+
+![Result2](SS1.png)
+
+![Result2](ss2.png)
+
