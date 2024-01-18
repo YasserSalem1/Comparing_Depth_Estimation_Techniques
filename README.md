@@ -1,6 +1,6 @@
-#Depth Estimation Models Comparison README
+# Depth Estimation Models Comparison README
 
-#Objective
+# Objective
 The goal of this project is to train, assess, and compare various depth estimation models using different techniques. The objective is to generate depth estimation masks for input images. The models chosen for this project include:
 
 Fully Convolutional Neural Network (U-net)
@@ -8,7 +8,7 @@ Generative Adversarial Network (pix2pix)
 Vision Transformer
 The comparison will be based on their performance, and to ensure a fair evaluation, consistent variables such as learning rate, batch size, and regularization parameters will be maintained across all models during training.
 
-#Models
+# Models
 1. U-net
 ![U-NET](UNET.png)
 
