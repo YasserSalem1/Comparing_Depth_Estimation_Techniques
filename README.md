@@ -11,14 +11,17 @@ The comparison will be based on their performance, and to ensure a fair evaluati
 # Models
 ### 1. U-net
 The U-net architecture is a fully convolutional neural network known for its success in semantic segmentation tasks. It will be fine-tuned for depth estimation on the given dataset.
+
 ![U-NET](UNET.png)
 
 ### 2. pix2pix
 Generative Adversarial Networks (GANs) have shown success in image-to-image translation tasks. Pix2pix is a GAN variant specifically designed for paired image translation problems. It will be adapted for depth estimation in this project.
-![pix2pix](PIXi2PIX.png)
+
+![pix2pix](PXI2PIX.png)
 
 ### 3. Vision Transformer
 Vision Transformers have gained popularity for their success in computer vision tasks. This model utilizes a transformer architecture, which has shown promising results in various domains. The Vision Transformer will be fine-tuned for depth estimation on the provided dataset.
+
 ![VIT](VIT.png)
 
 # Dataset
